@@ -3,8 +3,8 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-        Page Header
-        <small>Optional description</small>
+        Pendaftaran Santri
+        <!-- <small>Optional description</small> -->
       </h1>
       <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Level</a></li>
@@ -19,7 +19,7 @@
     <div class="col-md-12">
     <div class="box box-primary">
             <div class="box-header with-border">
-              <h3 class="box-title">Quick Example</h3>
+              <h3 class="box-title">Biodata Santri</h3>
             </div>
             <!-- /.box-header -->
             <!-- form start -->
@@ -28,12 +28,12 @@
 
                 <div class="form-group">
                   <label for="exampleInputEmail1">No Induk Santri</label>
-                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="">
                 </div>
 
                 <div class="form-group">
                   <label for="exampleInputPassword1">Nama</label>
-                  <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                  <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Nama">
                 </div>
 
              <div class="form-group">
@@ -48,7 +48,7 @@
             <div class="row">
               <div class="form-group col-lg-4">
                   <label for="exampleInputPassword1">Tempat Lahir</label>              
-                  <input type="password" class="form-control " id="exampleInputPassword1" placeholder="">
+                  <input type="password" class="form-control " id="exampleInputPassword1" placeholder="Tempat Lahir">
              </div>
 
             <div class="form-group col-lg-8">
